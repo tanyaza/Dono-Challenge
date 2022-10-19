@@ -1,0 +1,1 @@
+export const SONGS_DATA = "https://gitlab.com/dono-dev/react-native-code-challenge/-/raw/main/data/manifest.json"
